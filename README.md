@@ -1,6 +1,6 @@
 # Hivan 👋
 
-- data analyst @ Geotab 🚛
+- data analyst @ [Geotab](https://www.geotab.com/) 🚛
 - HBSc Grad + prev. RA @ [UofT](https://www.utoronto.ca/) 🎓
 - prev. VP Marketing @ [UofTHacks 13](https://xiii.uofthacks.com/) 🫎
 - prev. Marketing Exec @ [DeerHacks III](https://2024.deerhacks.ca/) 🦌
