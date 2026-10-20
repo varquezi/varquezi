@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hivan 👋
+
+- data analyst @ Geotab 🚛
+- HBSc Grad + prev. RA @ [UofT](https://www.utoronto.ca/) 🎓
+- prev. VP Marketing @ [UofTHacks 13](https://xiii.uofthacks.com/) 🫎
+- prev. Marketing Exec @ [DeerHacks III](https://2024.deerhacks.ca/) 🦌
+
+[LinkedIn](https://www.linkedin.com/in/ivanvarquez/) 💙
 
 <!--
 **varquezi/varquezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
