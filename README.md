@@ -5,7 +5,7 @@
 - prev. VP Marketing @ [UofTHacks 13](https://xiii.uofthacks.com/) 🫎
 - prev. Marketing Exec @ [DeerHacks III](https://2024.deerhacks.ca/) 🦌
 
-[Email](mailto:ivangvarq@gmail.com) ✉️
+[Email](mailto:ivangvarq@gmail.com) ✉️  
 [LinkedIn](https://www.linkedin.com/in/ivanvarquez/) 💙
 
 <!--
